@@ -9,11 +9,10 @@
 
 ---
 
-##  Project Images
+##  Project Image
 
-| Circuit | OLED Output | Blynk Dashboard |
-|---|---|---|
-| ![Circuit](images/circuit.jpg) | ![OLED](images/oled.jpg) | ![Blynk](images/blynk.jpg) |
+| Circuit 
+| ![Circuit](images/model.jpg) 
 
 ---
 
