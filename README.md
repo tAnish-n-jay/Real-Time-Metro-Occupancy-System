@@ -12,7 +12,7 @@
 ##  Project Image
 
 | Circuit 
-| ![Circuit](images/model.jpg) 
+| ![Circuit](images/model.jpeg) 
 
 ---
 
